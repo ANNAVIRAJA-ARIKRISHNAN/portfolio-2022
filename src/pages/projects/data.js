@@ -42,16 +42,16 @@ const ProjectData = [
     ],
   },
   {
-    name: "Trending Market",
-    tech: "React, Node, MongoDB, Express, axios, Webpack, BCryptjs, JWT, React-Bootstrap",
+    name: "My Online Cart",
+    tech: "React, Node, MongoDB, Express, axios, JWT, cloudinary",
     description:
       "The User signin or signup. Search the product and then add to the cart to place the order. User can review the product (comments, ratings). Admin can, add new and edit the product details (name, description, images, quantity, price).",
-    image: "/projects/trending-market.jpg",
+    image: "/projects/my-online-cart.jpg",
     buttons: [
-      { label: "Live", link: "https://trending-market.herokuapp.com/" },
+      { label: "Live", link: "https://my-online-cart.herokuapp.com/" },
       {
         label: "Source",
-        link: "https://github.com/ANNAVIRAJA-ARIKRISHNAN/trending-market-mern",
+        link: "https://github.com/ANNAVIRAJA-ARIKRISHNAN/my-online-cart",
       },
     ],
   },
