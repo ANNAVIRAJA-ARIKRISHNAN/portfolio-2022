@@ -84,7 +84,7 @@ const ProfileCard = () => {
           and ReactJs.
         </Text>
         <Text fontSize="lg">
-          Currently working as a software developer at{" "}
+          Currently working as a Technology Lead at{" "}
           <Tag
             as="a"
             fontSize="lg"
@@ -92,7 +92,7 @@ const ProfileCard = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Standard Chartered GBS
+            Infosys
           </Tag>
           .
         </Text>
