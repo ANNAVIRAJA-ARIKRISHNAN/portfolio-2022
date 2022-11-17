@@ -69,7 +69,7 @@ const ProfileCard = () => {
         <Text fontSize="lg">
           I fell in love with programming and I have at least learnt something,
           I think..🤷‍♂️ <Tag fontSize="lg">DotNet technologies</Tag> [ASP.Net,
-          MVC, SQL Server, WCF, WebAPI and MySQL] in 7 years of total experience
+          MVC, SQL Server, WCF, WebAPI and MySQL] in 8 years and 2 months of total experience
           and <Tag fontSize="lg">Full Stack</Tag> [JavaScript, NodeJS, React,
           TypeScript, MongoDB, HTML, CSS and Bootstrap].
         </Text>
