@@ -6,7 +6,7 @@ const ProjectData = [
       "The Developer login and register. Create a profile, experiance and educational details. Share/Ask questions and discuss about the questions. Like, dislike and comments options are available.",
     image: "/projects/dev-forum.jpg",
     buttons: [
-      { label: "Live", link: "https://developerforum.herokuapp.com/" },
+      // { label: "Live", link: "https://developerforum.herokuapp.com/" },
       {
         label: "Source",
         link: "https://github.com/ANNAVIRAJA-ARIKRISHNAN/developer-forum",
@@ -20,7 +20,7 @@ const ProjectData = [
       "Share stories with every-one. Have features which allows user signin and signup with email or use google credentials. After login - create a stories, users can comment and likes for others stories.",
     image: "/projects/stories.jpg",
     buttons: [
-      { label: "Live", link: "https://stories-app-337.herokuapp.com/" },
+      // { label: "Live", link: "https://stories-app-337.herokuapp.com/" },
       {
         label: "Source",
         link: "https://github.com/ANNAVIRAJA-ARIKRISHNAN/stories-mern",
@@ -34,7 +34,7 @@ const ProjectData = [
       "The User signin or signup. Select the pizza and Customize your toppings. Add the product in the cart and place the order. Admin can, add new and edit the available pizza and toppings as per store availablity.",
     image: "/projects/pizza-kadai.jpg",
     buttons: [
-      { label: "Live", link: "https://pizza-kadai.herokuapp.com/" },
+      // { label: "Live", link: "https://pizza-kadai.herokuapp.com/" },
       {
         label: "Source",
         link: "https://github.com/ANNAVIRAJA-ARIKRISHNAN/pizza-kadai-mern",
@@ -48,7 +48,7 @@ const ProjectData = [
       "The User signin or signup. Search the product and then add to the cart to place the order. User can review the product (comments, ratings). Admin can, add new and edit the product details (name, description, images, quantity, price).",
     image: "/projects/my-online-cart.jpg",
     buttons: [
-      { label: "Live", link: "https://my-online-cart.herokuapp.com/" },
+      // { label: "Live", link: "https://my-online-cart.herokuapp.com/" },
       {
         label: "Source",
         link: "https://github.com/ANNAVIRAJA-ARIKRISHNAN/my-online-cart",

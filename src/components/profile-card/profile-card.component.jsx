@@ -88,7 +88,7 @@ const ProfileCard = () => {
           <Tag
             as="a"
             fontSize="lg"
-            href="https://www.sc.com/in/"
+            href="https://www.infosys.com"
             target="_blank"
             rel="noreferrer"
           >
