@@ -16,8 +16,8 @@ const ExperienceData = [
       "C#, MVC, WinForm, React, Node, MSSql Server, MySql, MongoDB, Express, OpenSpan and Pega",
     image: "/brand/sc.png",
     designation: "DotNet FullStack Developer",
-    experiance: "5 Years 6 Months",
-    time: "May 2016 to Present",
+    experiance: "6 Years",
+    time: "May 2016 to May 2022",
   },
   {
     title: "Sports Mechanics India Pvt Ltd",
