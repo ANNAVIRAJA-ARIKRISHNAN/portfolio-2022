@@ -1,5 +1,15 @@
 const ExperienceData = [
   {
+    title: "Infosys",
+    link: "https://www.infosys.com/",
+    detail:
+      "C#, MVC, WinForm, MSSql Server",
+    image: "/brand/infosys.png",
+    designation: "Technology Lead",
+    experiance: "6 Months",
+    time: "June 2022 to Present",
+  },
+  {
     title: "Standard Chartered GBS",
     link: "https://www.sc.com/in/",
     detail:
