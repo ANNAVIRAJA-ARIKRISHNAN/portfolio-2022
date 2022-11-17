@@ -10,6 +10,7 @@ const tags = [
   { name: "C# .NET", colorScheme: "messenger" },
   { name: "MongoDB", colorScheme: "blue" },
   { name: "SQL Server", colorScheme: "linkedin" },
+  { name: "Azure", colorScheme: "purple" },
   { name: "Redux", colorScheme: "red" },
   { name: "Express", colorScheme: "blue" },
   { name: "HTML5", colorScheme: "purple" },
