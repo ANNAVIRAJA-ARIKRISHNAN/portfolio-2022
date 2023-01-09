@@ -6,7 +6,7 @@ const ExperienceData = [
       "C#, MVC, WinForm, MSSql Server",
     image: "/brand/infosys.png",
     designation: "Technology Lead",
-    experiance: "6 Months",
+    experiance: "7 Months",
     time: "June 2022 to Present",
   },
   {
